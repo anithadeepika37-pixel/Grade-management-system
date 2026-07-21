@@ -1,21 +1,22 @@
-# Grade Management System
+# 📚 Student Grade Management System
 
-A **Console-based Student Grade Management System** built using **Java OOP concepts**.
+A simple **Console-based Application** built using **Java and OOP concepts** to manage student academic records.
 
-## Features
-- Add new student with name, roll number and marks
-- Display all students with auto-calculated grades
-- Search student by Roll Number
-- Calculate class average marks
-- Clean menu-driven interface
+## 🚀 Features
+- **Add Student** - Add new student with Name, Roll No, and Marks
+- **Display All Students** - View all student records with auto-calculated Grade
+- **Search Student** - Find student details using Roll Number
+- **Calculate Average** - Get class average marks
+- **Auto Grade** - Grade A, B, C, D based on marks
 
-## Concepts Used
-- OOP: Classes, Objects, Encapsulation
-- Collections: ArrayList
-- Java Scanner for user input
-- Methods and Constructors
+## 🛠️ Technologies Used
+- **Language**: Java
+- **Concepts**: OOP, Classes, Objects, ArrayList, Encapsulation, Methods
 
-## How to Run
-1. Clone the repository
-   ```bash
-   git clone https://github.com/anithadeepika37-pixel/grade-management-system.git
+## ▶️ How to Run
+1. Clone this repository
+2. Go to `src` folder
+3. Compile: `javac *.java`
+4. Run: `java Main`
+
+## 📸 Demo Output
