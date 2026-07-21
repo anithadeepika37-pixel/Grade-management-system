@@ -20,3 +20,15 @@ A simple **Console-based Application** built using **Java and OOP concepts** to 
 4. Run: `java Main`
 
 ## 📸 Demo Output
+
+===== Student Grade Management System =====
+1. Add Student
+2. Display All Students
+3. Search Student by RollNo
+4. Show Average Marks
+5. Exit
+Enter choice: 1
+Enter Name: Anithadeepika
+Enter Roll No: 101
+Enter Marks: 95
+Student added successfully!
